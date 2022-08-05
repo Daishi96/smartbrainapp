@@ -13,9 +13,7 @@ function ParticleComponent() {
     };
 
     const particleOptions = {
-        background: {
-            color: '#162747',
-        },
+  
         fps_limit: 60,
         interactivity: {
             detect_on: "canvas",
